@@ -1,1 +1,3 @@
 .vscode
+*.pyc
+/mysite/__pycache__
